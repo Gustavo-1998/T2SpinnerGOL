@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">T2SpinnerGOL</string>
+    <string name="color">Agregar color</string>
+    <string name="colores">COLORES</string>
+    <string name="mostrar">Mostrar Colores</string>
+    <string name="agr">AGREGAR COLORES.</string>
+    <string name="agregacolor">Ingresa un color</string>
+    <string name="resgistra">Registrar</string>
+    <string name="mostrarcolor">Mostrar colores</string>
+    <string name="reg">Regresa a Menú</string>
+    <string name="mos">MOSTRAR COLORES.</string>
+    <string name="reg2">Regresar a Menú</string>
+    <string name="nombre">ORTEGA LOPEZ GUSTAVO</string>
+    <string name="grupo">GRUPO 7S11</string>
+</resources>
